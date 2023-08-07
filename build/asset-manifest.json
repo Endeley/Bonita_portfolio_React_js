@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e75bbab6.css",
+    "main.js": "/static/js/main.578b7fb5.js",
+    "static/media/Mod.png": "/static/media/Mod.2d6abb9b79218ed7f9ad.png",
+    "static/media/me.png": "/static/media/me.a1016e863487327892cf.png",
+    "static/media/portfolio2.png": "/static/media/portfolio2.3c984d8b5bb8a57ab6e5.png",
+    "static/media/bdtx2.jpg": "/static/media/bdtx2.a9aaae05ec70baf2490e.jpg",
+    "static/media/portfolio1.jpg": "/static/media/portfolio1.7fb5e0cc1d92ddf160b0.jpg",
+    "static/media/face8.jpeg": "/static/media/face8.550b2c3ab93f4d3dbfe1.jpeg",
+    "static/media/portfolio6.png": "/static/media/portfolio6.461ad5a6aa9608709d92.png",
+    "static/media/face5.jpeg": "/static/media/face5.1cb3dd3d445c643b8485.jpeg",
+    "static/media/portfolio4.jpg": "/static/media/portfolio4.5da60f9306b69c8d90ad.jpg",
+    "static/media/face6.jpeg": "/static/media/face6.751b7ba9d55a3449a553.jpeg",
+    "static/media/face4.jpeg": "/static/media/face4.f2060ee0e46df72207c2.jpeg",
+    "static/media/face2.png": "/static/media/face2.f446764d248d40edd9cd.png",
+    "static/media/EndeleyCV.pdf": "/static/media/EndeleyCV.30f29b052dd7cb80d018.pdf",
+    "static/media/face7.jpeg": "/static/media/face7.c5bb9a41020c51a9b022.jpeg",
+    "static/media/face3.png": "/static/media/face3.89c49b83815233c325bb.png",
+    "static/media/face1.jpeg": "/static/media/face1.195da486b0b5e72eb0aa.jpeg",
+    "static/media/face9.jpeg": "/static/media/face9.e15a8112b8d92323e6f0.jpeg",
+    "static/media/face10.jpeg": "/static/media/face10.864e1eed55840b8c084a.jpeg",
+    "static/media/portfolio5.png": "/static/media/portfolio5.b8b03ccb8b5df53513f8.png",
+    "static/media/portfolio3.png": "/static/media/portfolio3.f2e4aa569e4a100a8e48.png",
+    "index.html": "/index.html",
+    "main.e75bbab6.css.map": "/static/css/main.e75bbab6.css.map",
+    "main.578b7fb5.js.map": "/static/js/main.578b7fb5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e75bbab6.css",
+    "static/js/main.578b7fb5.js"
+  ]
+}
